@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "ScoModernAdamEQ.wav",
+    "file": "samples/ScoModernAdamEQ.wav",
+    "bpm": "108",
+    "loop": "4m"
+  },
+  {
+    "name": "Trombone.wav",
+    "file": "samples/Trombone.wav",
+    "bpm": "108",
+    "loop": "4m"
+  },
+  {
+    "name": "Brick-DeadRed01(Kick & Snare).wav",
+    "file": "samples/Brick-DeadRed01Kick&Snare.wav",
+    "bpm": "108",
+    "loop": "4m"
+  },
+  {
+    "name": "Brick-DeadRed02(Full Beat).wav",
+    "file": "samples/Brick-DeadRed02FullBeat.wav",
+    "bpm": "108",
+    "loop": "4m"
+  }
+]
